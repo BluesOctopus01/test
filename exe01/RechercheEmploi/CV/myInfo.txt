@@ -1,0 +1,6 @@
+name = 'Stephanie'
+pseudo ='FunnySteph'
+date = '15/4/1980
+email_adress = 'steph@outlook.com'
+zip_code = '7100'
+phone_number = '0478/45/82/60'
