@@ -1,2 +1,0 @@
-job = 'Nurse'
-company_name = 'A safe body in a safe mind'
